@@ -1,0 +1,9 @@
+﻿  LabWork3.cpp
+  String.cpp
+e:\projects\labwork3\labwork3\string.cpp(42): warning C4018: '>=': signed/unsigned mismatch
+e:\projects\labwork3\labwork3\string.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\projects\labwork3\labwork3\string.cpp(209): warning C4018: '<': signed/unsigned mismatch
+e:\projects\labwork3\labwork3\string.cpp(219): warning C4018: '<': signed/unsigned mismatch
+e:\projects\labwork3\labwork3\string.cpp(229): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LabWork3.vcxproj -> E:\Projects\LabWork3\Debug\LabWork3.exe
